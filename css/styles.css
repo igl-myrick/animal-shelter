@@ -54,4 +54,6 @@ body {
   background-color: #a9a9a9;
   color: #00008b;
   font-family: arial;
+  margin: auto;
+  width: 85%;
 }
