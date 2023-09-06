@@ -1,0 +1,52 @@
+.top {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.pet1 {
+  float: left;
+  background-color: #d3d3d3;
+  border: 2px #d3d3d3;
+  padding: 10px;
+}
+
+.pet2 {
+  float: left;
+  background-color: #d3d3d3;
+  border: 2px #d3d3d3;
+  padding: 10px;
+}
+
+.pet3 {
+  float: left;
+  background-color: #d3d3d3;
+  border: 2px #d3d3d3;
+  padding: 10px;
+}
+
+.pet4 {
+  float: left;
+  background-color: #d3d3d3;
+  border: 2px #d3d3d3;
+  padding: 10px;
+}
+
+.pet5 {
+  float: left;
+  background-color: #d3d3d3;
+  border: 2px #d3d3d3;
+  padding: 10px;
+}
+
+body {
+  background-color: #a9a9a9;
+  color: #00008b;
+  font-family: arial;
+}
